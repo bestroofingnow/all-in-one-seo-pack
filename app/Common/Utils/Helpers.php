@@ -351,7 +351,7 @@ class Helpers {
 			'timeout'   => 10,
 			'sslverify' => false,
 		];
-		$response = wp_remote_get( 'https://aioseo.com/wp-json/wp/v2/posts?per_page=4', $options );
+		$response = wp_remote_get( '', $options ); // Disabled - Independent plugin
 		$body     = wp_remote_retrieve_body( $response );
 		if ( ! $body ) {
 			return [];

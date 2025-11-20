@@ -260,7 +260,7 @@ class Connect {
 			'wp'       => get_bloginfo( 'version' ),
 			'redirect' => rawurldecode( base64_encode( $redirect ? $redirect : admin_url( 'admin.php?page=aioseo-settings' ) ) ),
 			'v'        => 1,
-		], defined( 'AIOSEO_UPGRADE_URL' ) ? AIOSEO_UPGRADE_URL : 'https://upgrade.aioseo.com' );
+		], defined( 'AIOSEO_UPGRADE_URL' ) ? AIOSEO_UPGRADE_URL : '#' ); // Disabled - Independent plugin
 
 		// We're storing the ID of the user who is installing Pro so that we can add capabilties for him after upgrading.
 		aioseo()->core->cache->update( 'connect_active_user', get_current_user_id(), 15 * MINUTE_IN_SECONDS );

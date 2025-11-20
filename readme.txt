@@ -8,34 +8,32 @@ Stable tag: 4.8.2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
-AIOSEO is the most powerful WordPress SEO plugin. Improve SEO rankings and traffic with comprehensive SEO tools and smart AI SEO optimizations!
+SEO AI Pro is a powerful WordPress SEO plugin. Improve SEO rankings and traffic with comprehensive SEO tools and smart AI SEO optimizations!
 
 == Description ==
 
-### AIOSEO - The Best WordPress SEO Plugin & Toolkit ###
+### SEO AI Pro - WordPress SEO Plugin & Toolkit ###
 
-All in One SEO is the original WordPress SEO plugin started in 2007. Today, over 3 million website owners and SEO experts use AIOSEO for higher SEO rankings.
-
-Our users consistently rate [AIOSEO](https://aioseo.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'All in One SEO for WordPress') as the most comprehensive WordPress SEO plugin and marketing toolkit. It's the fastest way to optimize WordPress SEO settings, add schema markup, create XML sitemap, add local SEO, track SEO keyword rankings, automate internal linking, perform SEO audits, add Author SEO (EEAT), monitor SEO revisions, connect Google search console, and basically everything a SEO Pro would use to rank higher in search engines. 
+SEO AI Pro is a comprehensive WordPress SEO plugin and marketing toolkit. It's the fastest way to optimize WordPress SEO settings, add schema markup, create XML sitemap, add local SEO, track SEO keyword rankings, automate internal linking, perform SEO audits, add Author SEO (EEAT), monitor SEO revisions, connect Google search console, and basically everything a SEO Pro would use to rank higher in search engines.
 
 We have AI SEO features that helps you optimize SEO rankings using ChatGPT (OpenAI) and artificial intelligence.
 
-> <strong>AIOSEO Pro</strong><br />
-> This is the lite version of the All in One WordPress SEO Pro plugin that comes with all the powerful SEO features you will ever need to rank higher in search engines including **smart SEO schema markup, advanced SEO modules, powerful SEO sitemap suite, local SEO module, SEO keyword ranking tracking, automatic internal linking, WooCommerce SEO**, and tons more. [Click here to purchase the best premium WordPress SEO plugin now!](https://aioseo.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'All in One SEO for WordPress')
+> <strong>SEO AI Pro</strong><br />
+> This plugin comes with all the powerful SEO features you will ever need to rank higher in search engines including **smart SEO schema markup, advanced SEO modules, powerful SEO sitemap suite, local SEO module, SEO keyword ranking tracking, automatic internal linking, WooCommerce SEO**, and tons more.
 
-Here's why smart business owners, SEO experts, marketers, and developers love AIOSEO, and you will too!
+Here's why smart business owners, SEO experts, marketers, and developers love SEO AI Pro, and you will too!
 
 [youtube https://youtu.be/UbOYEEIvXvY]
 
-### What Makes AIOSEO Better than Other WordPress SEO Plugins ###
+### What Makes SEO AI Pro Better than Other WordPress SEO Plugins ###
 
-AIOSEO is leading the innovation in WordPress SEO space, and our SEO features will give you a competitive advantage.
+SEO AI Pro is leading the innovation in WordPress SEO space, and our SEO features will give you a competitive advantage.
 
 * **Easy SEO Setup Wizard**
 Our SEO setup wizard optimizes your website's SEO settings based on your unique industry needs in less than 5 minutes.
 
-* **Smart Schema Markup (aka Rich Snippets)** 
-Get better click through rate (CTR) and Google rich featured snippets using advanced SEO schema markups like FAQ schema, product schema, recipe schema markup, and dozens more using our custom [Schema Generator](https://aioseo.com/features/rich-snippets-schema/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'Schema Generator').
+* **Smart Schema Markup (aka Rich Snippets)**
+Get better click through rate (CTR) and Google rich featured snippets using advanced SEO schema markups like FAQ schema, product schema, recipe schema markup, and dozens more using our custom Schema Generator.
 
 * **AI Title and Description Generator** 
 Save time by automatically generating SEO titles and meta descriptions using OpenAI ChatGPT.
@@ -44,31 +42,31 @@ Save time by automatically generating SEO titles and meta descriptions using Ope
 Optimize for unlimited SEO keywords using our SEO content analyzer. Our TruSEO score gives you detailed content & readability analysis, so you can get higher SEO rankings.
 
 * **Google Keyword Rank Tracking**
-Easily track how your website is ranking for different keywords in Google from your [WordPress dashboard](https://aioseo.com/features/search-statistics/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'Google Keyword Rank Tracker').
+Easily track how your website is ranking for different keywords in Google from your WordPress dashboard.
 
 * **Automatic Link Assistant**
-Automate internal links between your pages using our smart [internal linking algorithm](https://aioseo.com/features/internal-link-assistant/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'Link Assistant') that will help improve on-page SEO.
+Automate internal links between your pages using our smart internal linking algorithm that will help improve on-page SEO.
 
 * **Local Business SEO**
-Improve your local SEO presence with local business schema, support for multiple local store locations, business opening hours, Google Maps integration, contact info (business email, business phone, business address, etc), and more with our [Local SEO module](https://aioseo.com/features/local-seo/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'Local SEO').
+Improve your local SEO presence with local business schema, support for multiple local store locations, business opening hours, Google Maps integration, contact info (business email, business phone, business address, etc), and more with our Local SEO module.
 
 * **SEO Revisions**
-Keep a [historical record of SEO changes](https://aioseo.com/seo-revisions/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'SEO Revisions'), monitor the impact of changes, and restore previous versions in one click.
+Keep a historical record of SEO changes, monitor the impact of changes, and restore previous versions in one click.
 
 * **Content Decay Tracking**
-Never lose traffic to competitors. Quickly detect which content is losing traffic / SEO rankings, so you can optimize it to regain your rankings with our [Search Statistics module](https://aioseo.com/features/search-statistics/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'Search Statistics').
+Never lose traffic to competitors. Quickly detect which content is losing traffic / SEO rankings, so you can optimize it to regain your rankings with our Search Statistics module.
 
 * **Smart XML Sitemap**
 Advanced XML sitemaps to boost your SEO rankings (with easy setup inside Google Search Console). Also includes Video SEO XML sitemap, News SEO XML sitemap, RSS sitemap, and HTML sitemap.
 
 * **Smart SEO Redirects**
-The most powerful [SEO Redirection manager](https://aioseo.com/features/redirection-manager/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'Redirection Manager') for setting up advanced SEO redirects including 301 redirects, 302, 307, 410, 404 redirection, REGEX redirects, and more.
+The most powerful SEO Redirection manager for setting up advanced SEO redirects including 301 redirects, 302, 307, 410, 404 redirection, REGEX redirects, and more.
 
 * **404 Error Monitor**
 Automatic 404 error monitor helps you track and redirect 404 errors, so you don't lose SEO rankings.
 
 * **Author SEO**
-Add [custom author profile pages, author bio box, and relevant author schema](https://aioseo.com/features/author-seo-google-e-e-a-t/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'Author SEO (E-E-A-T)') to boost Google EEAT score to help with Google's Helpful Content Update (HCU).
+Add custom author profile pages, author bio box, and relevant author schema to boost Google EEAT score to help with Google's Helpful Content Update (HCU).
 
 * **SEO Audit Checklist**
 Improve your SEO ranking with our comprehensive SEO audit checklist.
@@ -201,11 +199,9 @@ Aside from that, our SEO migration tool also helps you with:
 * CSV Sitemap Import to Import additional pages to your XML Sitemaps
 
 
-**Now you can see why AIOSEO is often rated the best SEO plugin in WordPress.**
+**Now you can see why SEO AI Pro is often rated the best SEO plugin in WordPress.**
 
-Give AIOSEO a try.
-
-Want to unlock more SEO features? [Upgrade to AIOSEO Pro](https://aioseo.com/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin 'All in One SEO for WordPress').
+Give SEO AI Pro a try.
 
 ### Credits ###
 
@@ -213,13 +209,7 @@ This plugin is created by [Benjamin Rojas](https://benjaminrojas.net/ 'Benjamin 
 
 ### Branding Guideline ###
 
-AIOSEO&reg; is a registered trademark of Semper Plugins LLC. When writing about the WordPress SEO plugin by AIOSEO, please use the following format.
-
-* AIOSEO (correct)
-* All in One SEO (correct)
-* AIO SEO (incorrect)
-* All in 1 SEO (incorrect)
-* AISEO (incorrect)
+SEO AI Pro is an independent WordPress SEO plugin.
 
 == Changelog ==
 
@@ -308,47 +298,45 @@ AIOSEO&reg; is a registered trademark of Semper Plugins LLC. When writing about 
 * New: WooCommerce Product Attributes Support - Per popular demand, you can now control the SEO of your product attributes and include them in your sitemap to increase discoverability.
 * Updated: Added filter to control maximum number of additional keywords per post.
 
-**See our [changelog on aioseo.com](https://aioseo.com/changelog/?utm_source=wprepo&utm_medium=link&utm_campaign=aioseo) for previous releases.**
+**See the changelog above for previous releases.**
 
 == Frequently Asked Questions ==
 
-Please visit our [complete AIOSEO documentation](https://aioseo.com/docs/?utm_source=wprepo&utm_medium=link&utm_campaign=liteplugin) before requesting support for SEO from the AIOSEO team.
+Please consult the plugin documentation for help with SEO features.
 
-= Who should use AIOSEO? =
+= Who should use SEO AI Pro? =
 
-SEO is essential for all websites. AIOSEO is perfect for business owners, bloggers, marketers, designers, developers, photographers, and basically everyone else. If you want to rank higher in search, then you need to use AIOSEO WordPress SEO plugin.
+SEO is essential for all websites. SEO AI Pro is perfect for business owners, bloggers, marketers, designers, developers, photographers, and basically everyone else. If you want to rank higher in search, then you need to use SEO AI Pro WordPress SEO plugin.
 
-= Which themes does AIOSEO support? =
+= Which themes does SEO AI Pro support? =
 
-AIOSEO works with all WordPress themes. Simply enable AIOSEO to make your WordPress theme SEO friendly.
+SEO AI Pro works with all WordPress themes. Simply enable SEO AI Pro to make your WordPress theme SEO friendly.
 
-= Will AIOSEO slow down my website? =
+= Will SEO AI Pro slow down my website? =
 
-Nope, AIOSEO will NOT slow down your website. We understand that speed is important for SEO, that's why our code is properly optimized for maximum performance. Remember, faster websites rank higher in search. Use AIOSEO for fast SEO improvements.
+Nope, SEO AI Pro will NOT slow down your website. We understand that speed is important for SEO, that's why our code is properly optimized for maximum performance. Remember, faster websites rank higher in search. Use SEO AI Pro for fast SEO improvements.
 
-= Can I use AIOSEO on client sites? =
+= Can I use SEO AI Pro on client sites? =
 
-Yes, you can use AIOSEO on client websites.
+Yes, you can use SEO AI Pro on client websites.
 
-= Are AIOSEO sitemaps better than default WordPress sitemaps? =
+= Are SEO AI Pro sitemaps better than default WordPress sitemaps? =
 
-Yes, AIOSEO smart sitemaps are a lot more optimized than the default WordPress sitemaps. Once you enable AIOSEO, our XML sitemaps will override the default WordPress sitemaps, so you can improve your SEO rankings.
+Yes, SEO AI Pro smart sitemaps are a lot more optimized than the default WordPress sitemaps. Once you enable SEO AI Pro, our XML sitemaps will override the default WordPress sitemaps, so you can improve your SEO rankings.
 
 We also offer advanced SEO sitemaps such as News Sitemap, Video Sitemap, and RSS Sitemap.
 
 Our SEO sitemaps come with granular control such as links per sitemap, enable / disable post types or taxonomies, include / exclude specific links from sitemap, add additional non-WordPress pages to sitemaps, customize sitemap priority & frequency for each section of your site, and more.
 
-This is why experts rate AIOSEO as the best WordPress SEO plugin.
+This is why experts rate SEO AI Pro as the best WordPress SEO plugin.
 
-= Does AIOSEO help with SEO Verification? =
+= Does SEO AI Pro help with SEO Verification? =
 
-Yes. AIOSEO can help you with website SEO verification with various webmaster tools such as Google Search Console, Bing Webmaster Tools, Yandex, Baidu, Pinterest, and just about every other site verification you need.
+Yes. SEO AI Pro can help you with website SEO verification with various webmaster tools such as Google Search Console, Bing Webmaster Tools, Yandex, Baidu, Pinterest, and just about every other site verification you need.
 
-= Why is AIOSEO better than other SEO plugins? =
+= Why is SEO AI Pro better than other SEO plugins? =
 
-There are many WordPress SEO plugins out there. Unlike others, AIOSEO WordPress SEO plugin is always reliable. Our SEO features are results focused (no bloat), and we offer exceptional customer support.
-
-AIOSEO is the original WordPress SEO plugin, and it's trusted by over 3 million website owners.
+There are many WordPress SEO plugins out there. Unlike others, SEO AI Pro WordPress SEO plugin is always reliable. Our SEO features are results focused (no bloat), and we offer exceptional customer support.
 
 = Do I really need an XML Sitemap? =
 
@@ -362,13 +350,13 @@ XML Sitemaps also help you tell Google which pages you DON'T want included in se
 
 As part of your SEO strategy, **an XML sitemap can help you to improve your domain authority and unlock more traffic from Google, Bing and other search engines**.
 
-AIOSEO can easily help you get your sitemaps listed inside Google Search Console so your content can start to get indexed today!
+SEO AI Pro can easily help you get your sitemaps listed inside Google Search Console so your content can start to get indexed today!
 
-= Does AIOSEO integrate directly with Google Search Console? =
+= Does SEO AI Pro integrate directly with Google Search Console? =
 
 Absolutely! Our integration with Google Search Console allows you to monitor and maintain your website's presence on Google. With our direct integration, you can easily view important information about your website, such as the number of clicks, impressions, and the average position for each keyword that your website's content appears for in Google search results. You can also track your contents page speed using Google's Page Speed Insights directly inside your WordPress dashboard.
 
-Additionally, AIOSEO can also provide you with data on the most frequently used keywords, the most popular pages on your website, and any crawl errors or security issues that may arise. By integrating with Google Search Console, AIOSEO provides website owners with valuable insights that can help to improve SEO and overall online visibility. With this integration, you can track your site's progress over time and make data-driven decisions that will help you achieve your SEO goals.
+Additionally, SEO AI Pro can also provide you with data on the most frequently used keywords, the most popular pages on your website, and any crawl errors or security issues that may arise. By integrating with Google Search Console, SEO AI Pro provides website owners with valuable insights that can help to improve SEO and overall online visibility. With this integration, you can track your site's progress over time and make data-driven decisions that will help you achieve your SEO goals.
 
 == Screenshots ==
 

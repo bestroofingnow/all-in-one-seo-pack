@@ -19,7 +19,7 @@ class DeactivationSurvey {
 	 *
 	 * @var string
 	 */
-	public $apiUrl = 'https://plugin.aioseo.com/wp-json/am-deactivate-survey/v1/deactivation-data';
+	public $apiUrl = ''; // Disabled - Independent plugin
 
 	/**
 	 * Name for this plugin.

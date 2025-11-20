@@ -14,12 +14,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 class Features {
 	/**
 	 * The features URL.
+	 * Disabled - Independent plugin
 	 *
 	 * @since 4.3.0
 	 *
 	 * @var string
 	 */
-	protected $featuresUrl = 'https://licensing-cdn.aioseo.com/keys/lite/all-in-one-seo-pack-pro-features.json';
+	protected $featuresUrl = '';
 
 	/**
 	 * Returns our features.
