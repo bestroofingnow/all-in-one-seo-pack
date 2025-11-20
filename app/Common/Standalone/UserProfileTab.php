@@ -6,7 +6,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-use AIOSEO\Plugin\Pro\Standalone as ProStandalone;
+// Removed: use AIOSEO\Plugin\Pro\Standalone - independent plugin doesn't use Pro classes
 
 /**
  * Registers the standalone components.
