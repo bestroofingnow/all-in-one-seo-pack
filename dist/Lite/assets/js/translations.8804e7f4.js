@@ -1,1 +1,0 @@
-import{b as n}from"./default-i18n.20001971.js";window.aioseoTranslations?(n(window.aioseoTranslations.translations,void 0),window.aioseoTranslationsPro&&window.aioseoTranslationsPro.translationsPro&&n(window.aioseoTranslationsPro.translationsPro,void 0)):window.aioseo&&console.warn("AIOSEO translations couldn't be loaded.");
