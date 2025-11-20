@@ -90,14 +90,12 @@
 
 			<template #indexStatus="{ row }">
 				<index-status
-					v-if="!searchStatisticsStore.shouldShowSampleReports"
-					:result="row.inspectionResult"
+						:result="row.inspectionResult"
 					:loading="row.inspectionResultLoading"
 				/>
 
-				<index-status-pro
-					v-if="searchStatisticsStore.shouldShowSampleReports"
-					:result="row.inspectionResult"
+				<index-status
+						:result="row.inspectionResult"
 					:loading="row.inspectionResultLoading"
 				/>
 			</template>
@@ -210,7 +208,6 @@ import CoreWpTable from '@/vue/components/common/core/wp/Table'
 import Cta from '@/vue/components/common/cta/Index'
 import GraphDecay from './GraphDecay'
 import IndexStatus from '@/vue/components/AIOSEO_VERSION/search-statistics/IndexStatus'
-import IndexStatusPro from '@/vue/components/pro/search-statistics/IndexStatus'
 import ObjectActions from './AIOSEO_VERSION/ObjectActions'
 import Statistic from './Statistic'
 
@@ -311,7 +308,6 @@ export default {
 		Cta,
 		GraphDecay,
 		IndexStatus,
-		IndexStatusPro,
 		ObjectActions,
 		Statistic
 	},

@@ -143,7 +143,7 @@ import { useGoogleSearchConsole } from '@/vue/composables/GoogleSearchConsole'
 import license from '@/vue/utils/license'
 import links from '@/vue/utils/links'
 
-import ConnectCta from '@/vue/pages/search-statistics/views/partials/pro/ConnectCta'
+import ConnectCta from '@/vue/pages/search-statistics/views/partials/ConnectCta'
 import CoreAlert from '@/vue/components/common/core/alert/Index'
 import CoreBlur from '@/vue/components/common/core/Blur'
 import Cta from '@/vue/components/common/cta/Index'
