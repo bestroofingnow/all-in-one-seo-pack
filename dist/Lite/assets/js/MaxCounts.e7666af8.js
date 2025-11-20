@@ -1,1 +1,0 @@
-import"./translations.8804e7f4.js";import{s as r,_ as s}from"./default-i18n.20001971.js";const e=void 0,i=()=>({maxRecommendedCount:(n,o)=>{const t=n>o?' class="error"':"";return r(s("%1$s out of %2$s max recommended characters.",e),`<strong${t}>${n}</strong>`,`<strong>${o}</strong>`)}});export{i as u};
