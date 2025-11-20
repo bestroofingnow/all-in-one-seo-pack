@@ -6,7 +6,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-use AIOSEO\Plugin\Pro\Standalone as ProStandalone;
+// Removed: use AIOSEO\Plugin\Pro\Standalone - independent plugin uses Common classes
 
 /**
  * Registers the standalone components.
@@ -114,12 +114,12 @@ class Standalone {
 		$this->flyoutMenu       = new FlyoutMenu();
 		$this->seoPreview       = new SeoPreview();
 		$this->setupWizard      = new SetupWizard();
-		$this->primaryTerm      = aioseo()->pro ? new ProStandalone\PrimaryTerm() : new PrimaryTerm();
+		$this->primaryTerm      = new PrimaryTerm(); // Always use Common class
 		$this->userProfileTab   = new UserProfileTab();
-		$this->buddyPress       = aioseo()->pro ? new ProStandalone\BuddyPress\BuddyPress() : new BuddyPress\BuddyPress();
-		$this->bbPress          = aioseo()->pro ? new ProStandalone\BbPress\BbPress() : new BbPress\BbPress();
+		$this->buddyPress       = new BuddyPress\BuddyPress(); // Always use Common class
+		$this->bbPress          = new BbPress\BbPress(); // Always use Common class
 
-		aioseo()->pro ? new ProStandalone\DetailsColumn() : new DetailsColumn();
+		new DetailsColumn(); // Always use Common class
 
 		new AdminBarNoindexWarning();
 		new LimitModifiedDate();
