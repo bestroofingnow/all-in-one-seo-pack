@@ -1,0 +1,1 @@
+import"./translations.8804e7f4.js";import{s as r,_ as s}from"./default-i18n.20001971.js";const n=void 0,c=()=>({editPost:t=>r(s("Edit %1$s",n),t||s("Post",n)),getPostIconClass:t=>{const o="dashicons-admin-post";return t!=null&&t.startsWith("dashicons-awb-")||t!=null&&t.includes("data:image/svg+xml;base64")?o:t||o},viewPost:t=>r(s("View %1$s",n),t||s("Post",n))});export{c as u};

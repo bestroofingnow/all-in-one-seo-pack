@@ -22,8 +22,8 @@ import {
 	useSearchStatisticsStore
 } from '@/vue/stores'
 
-import EmptyState from './partials/pro/EmptyState'
-import Groups from './partials/pro/Groups'
+import EmptyState from './partials/EmptyState'
+import Groups from './partials/Groups'
 import KeywordRankTrackerTabs from './partials/Tabs'
 import Keywords from './partials/Keywords'
 

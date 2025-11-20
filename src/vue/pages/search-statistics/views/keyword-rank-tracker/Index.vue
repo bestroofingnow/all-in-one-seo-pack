@@ -64,16 +64,16 @@ import {
 	useKeywordRankTrackerStore
 } from '@/vue/stores'
 
-import AddKeywords from './partials/pro/AddKeywords'
-import AssignGroups from './partials/pro/AssignGroups'
+import AddKeywords from './partials/AddKeywords'
+import AssignGroups from './partials/AssignGroups'
 import CoreCard from '@/vue/components/common/core/Card'
 import CoreMainTabs from '@/vue/components/common/core/main/Tabs'
-import CreateGroup from './partials/pro/CreateGroup'
-import DeleteGroups from './partials/pro/DeleteGroups'
-import DeleteKeywords from './partials/pro/DeleteKeywords'
+import CreateGroup from './partials/CreateGroup'
+import DeleteGroups from './partials/DeleteGroups'
+import DeleteKeywords from './partials/DeleteKeywords'
 import KeywordRankings from '../keyword-rankings/Index'
 import RankTracker from './RankTracker'
-import UpdateGroup from './partials/pro/UpdateGroup'
+import UpdateGroup from './partials/UpdateGroup'
 
 import { __ } from '@/vue/plugins/translations'
 import { removeParam } from '@/vue/utils/params'
