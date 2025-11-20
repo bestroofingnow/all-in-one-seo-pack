@@ -129,11 +129,11 @@ namespace AIOSEO\Plugin {
 			$constants = [
 				'AIOSEO_PLUGIN_BASENAME'   => plugin_basename( AIOSEO_FILE ),
 				'AIOSEO_PLUGIN_NAME'       => $pluginData['name'],
-				'AIOSEO_PLUGIN_SHORT_NAME' => 'AIOSEO',
+				'AIOSEO_PLUGIN_SHORT_NAME' => 'Kynex',
 				'AIOSEO_PLUGIN_URL'        => plugin_dir_url( AIOSEO_FILE ),
 				'AIOSEO_VERSION'           => $pluginData['version'],
-				'AIOSEO_MARKETING_URL'     => 'https://aioseo.com/',
-				'AIOSEO_MARKETING_DOMAIN'  => 'aioseo.com'
+				'AIOSEO_MARKETING_URL'     => 'https://kynex.io/',
+				'AIOSEO_MARKETING_DOMAIN'  => 'kynex.io'
 			];
 
 			foreach ( $constants as $constant => $value ) {

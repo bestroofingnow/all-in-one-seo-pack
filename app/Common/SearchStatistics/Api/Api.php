@@ -42,12 +42,13 @@ class Api {
 
 	/**
 	 * The base URL for the Search Statistics microservice.
+	 * Disabled - Independent plugin
 	 *
 	 * @since 4.3.0
 	 *
 	 * @var string
 	 */
-	private $url = 'google.aioseo.com';
+	private $url = '';
 
 	/**
 	 * The API version for the Search Statistics microservice.

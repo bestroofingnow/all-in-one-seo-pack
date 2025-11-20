@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: SEO AI Pro - Independent Edition
- * Plugin URI:  https://github.com/bestroofingnow/all-in-one-seo-pack
- * Description: Independent SEO plugin with AI-Powered Content Generation, SEO Analysis, Keyword Research & AEO Optimization. Supports OpenAI, Claude, and Google Gemini. Features XML Sitemaps, SEO for custom post types, Elementor integration, and much more. No license required - fully independent.
- * Author:      Your Company
- * Author URI:  https://yourwebsite.com/
+ * Plugin Name: Kynex SEO Plugin
+ * Plugin URI:  https://kynex.io/
+ * Description: Complete SEO solution with AI-Powered Content Generation, SEO Analysis, Keyword Research & AEO Optimization. Supports OpenAI, Claude, and Google Gemini. Features XML Sitemaps, Schema Markup, Social Media Integration, Elementor support, and comprehensive SEO tools.
+ * Author:      Kynex
+ * Author URI:  https://kynex.io/
  * Version:     1.0.0
  * Text Domain: all-in-one-seo-pack
  * Domain Path: /languages
@@ -27,10 +27,10 @@
  * Original source: https://wordpress.org/plugins/all-in-one-seo-pack/
  *
  * @since     1.0.0
- * @author    Your Company
- * @package   AIOSEO\Plugin
+ * @author    Kynex
+ * @package   Kynex\SEO
  * @license   GPL-3.0+
- * @copyright Copyright © 2025, Your Company
+ * @copyright Copyright © 2025, Kynex
  */
 
 // Exit if accessed directly.

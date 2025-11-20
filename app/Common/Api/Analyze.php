@@ -34,21 +34,12 @@ class Analyze {
 			empty( $responseBody[ $analyzeOrHomeUrl ] ) ||
 			$refreshResults
 		) {
-			$token      = aioseo()->internalOptions->internal->siteAnalysis->connectToken;
-			$url        = defined( 'AIOSEO_ANALYZE_URL' ) ? AIOSEO_ANALYZE_URL : 'https://analyze.aioseo.com';
-			$response   = aioseo()->helpers->wpRemotePost( $url . '/v3/analyze/', [
-				'timeout' => 60,
-				'headers' => [
-					'X-AIOSEO-Key' => $token,
-					'Content-Type' => 'application/json'
-				],
-				'body'    => wp_json_encode( [
-					'url' => $analyzeOrHomeUrl
-				] ),
-			] );
-
-			$responseCode[ $analyzeOrHomeUrl ] = wp_remote_retrieve_response_code( $response );
-			$responseBody[ $analyzeOrHomeUrl ] = json_decode( wp_remote_retrieve_body( $response ), true );
+			// Disabled - Independent plugin without external API
+			$responseCode[ $analyzeOrHomeUrl ] = 200;
+			$responseBody[ $analyzeOrHomeUrl ] = [
+				'success' => false,
+				'error'   => 'Site analysis disabled - independent plugin'
+			];
 
 			aioseo()->core->cache->update( 'analyze_site_code', $responseCode, 10 * MINUTE_IN_SECONDS );
 			aioseo()->core->cache->update( 'analyze_site_body', $responseBody, 10 * MINUTE_IN_SECONDS );

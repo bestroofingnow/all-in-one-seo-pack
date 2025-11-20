@@ -21,7 +21,7 @@ class Notices {
 	 *
 	 * @var string
 	 */
-	private $url = 'https://plugin-cdn.aioseo.com/wp-content/notifications.json';
+	private $url = ''; // Disabled - Independent plugin
 
 	/**
 	 * Review class instance.

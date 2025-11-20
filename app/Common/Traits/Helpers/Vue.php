@@ -138,7 +138,7 @@ trait Vue {
 					'siteurl'  => site_url(),
 					'homeurl'  => home_url(),
 					'redirect' => rawurldecode( base64_encode( admin_url( 'index.php?page=aioseo-connect' ) ) )
-				], defined( 'AIOSEO_CONNECT_URL' ) ? AIOSEO_CONNECT_URL : 'https://connect.aioseo.com' ),
+				], defined( 'AIOSEO_CONNECT_URL' ) ? AIOSEO_CONNECT_URL : '#' ), // Disabled - Independent plugin
 				'aio'               => [
 					'about'            => is_network_admin() ? network_admin_url( 'admin.php?page=aioseo-about' ) : admin_url( 'admin.php?page=aioseo-about' ),
 					'dashboard'        => admin_url( 'admin.php?page=aioseo' ),

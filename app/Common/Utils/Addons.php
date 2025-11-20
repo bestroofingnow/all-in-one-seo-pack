@@ -25,12 +25,13 @@ class Addons {
 
 	/**
 	 * The addons URL.
+	 * Disabled - Independent plugin
 	 *
 	 * @since 4.1.8
 	 *
 	 * @var string
 	 */
-	protected $addonsUrl = 'https://licensing-cdn.aioseo.com/keys/lite/all-in-one-seo-pack-pro.json';
+	protected $addonsUrl = '';
 
 	/**
 	 * The main Image SEO addon class.
@@ -704,8 +705,8 @@ class Addons {
 				'requiresUpgrade'    => true,
 				'description'        => '<p>Optimize your site for Google\'s E-E-A-T ranking factor by proving your writer\'s expertise through author schema markup and new UI elements.</p>',
 				'descriptionVersion' => 0,
-				'productUrl'         => 'https://aioseo.com/author-seo-eeat/',
-				'learnMoreUrl'       => 'https://aioseo.com/author-seo-eeat/',
+				'productUrl'         => '#',
+				'learnMoreUrl'       => '#',
 				'manageUrl'          => 'https://route#aioseo-search-appearance:author-seo',
 				'basename'           => 'aioseo-eeat/aioseo-eeat.php',
 				'installed'          => false,
@@ -737,8 +738,8 @@ class Addons {
 				'requiresUpgrade'    => true,
 				'description'        => '<p>Our Redirection Manager allows you to easily create and manage redirects for your broken links to avoid confusing search engines and users, as well as losing valuable backlinks. It even automatically sends users and search engines from your old URLs to your new ones.</p>', // phpcs:ignore Generic.Files.LineLength.MaxExceeded
 				'descriptionVersion' => 0,
-				'productUrl'         => 'https://aioseo.com/features/redirection-manager/',
-				'learnMoreUrl'       => 'https://aioseo.com/features/redirection-manager/',
+				'productUrl'         => '#',
+				'learnMoreUrl'       => '#',
 				'manageUrl'          => 'https://route#aioseo-redirects:redirects',
 				'basename'           => 'aioseo-redirects/aioseo-redirects.php',
 				'installed'          => false,
@@ -769,8 +770,8 @@ class Addons {
 				'requiresUpgrade'    => true,
 				'description'        => '<p>Super-charge your SEO with Link Assistant! Get relevant suggestions for adding internal links to older content as well as finding any orphaned posts that have no internal links. Use our reporting feature to see all link suggestions or add them directly from any page or post.</p>', // phpcs:ignore Generic.Files.LineLength.MaxExceeded
 				'descriptionVersion' => 0,
-				'productUrl'         => 'https://aioseo.com/feature/internal-link-assistant/',
-				'learnMoreUrl'       => 'https://aioseo.com/feature/internal-link-assistant/',
+				'productUrl'         => '#',
+				'learnMoreUrl'       => '#',
 				'manageUrl'          => 'https://route#aioseo-link-assistant:overview',
 				'basename'           => 'aioseo-link-assistant/aioseo-link-assistant.php',
 				'installed'          => false,
@@ -803,8 +804,8 @@ class Addons {
 				'requiresUpgrade'    => true,
 				'description'        => '<p>The Video Sitemap works in much the same way as the XML Sitemap module, it generates an XML Sitemap specifically for video content on your site. Search engines use this information to display rich snippet information in search results.</p>', // phpcs:ignore Generic.Files.LineLength.MaxExceeded
 				'descriptionVersion' => 0,
-				'productUrl'         => 'https://aioseo.com/video-sitemap',
-				'learnMoreUrl'       => 'https://aioseo.com/video-sitemap',
+				'productUrl'         => '#',
+				'learnMoreUrl'       => '#',
 				'manageUrl'          => 'https://route#aioseo-sitemaps:video-sitemap',
 				'basename'           => 'aioseo-video-sitemap/aioseo-video-sitemap.php',
 				'installed'          => false,
@@ -837,8 +838,8 @@ class Addons {
 				'requiresUpgrade'    => true,
 				'description'        => '<p>Local Business schema markup enables you to tell Google about your business, including your business name, address and phone number, opening hours and price range. This information may be displayed as a Knowledge Graph card or business carousel.</p>', // phpcs:ignore Generic.Files.LineLength.MaxExceeded
 				'descriptionVersion' => 0,
-				'productUrl'         => 'https://aioseo.com/local-business',
-				'learnMoreUrl'       => 'https://aioseo.com/local-business',
+				'productUrl'         => '#',
+				'learnMoreUrl'       => '#',
 				'manageUrl'          => 'https://route#aioseo-local-seo:locations',
 				'basename'           => 'aioseo-local-business/aioseo-local-business.php',
 				'installed'          => false,
@@ -869,8 +870,8 @@ class Addons {
 				'requiresUpgrade'    => true,
 				'description'        => '<p>Our Google News Sitemap lets you control which content you submit to Google News and only contains articles that were published in the last 48 hours. In order to submit a News Sitemap to Google, you must have added your site to Google’s Publisher Center and had it approved.</p>', // phpcs:ignore Generic.Files.LineLength.MaxExceeded
 				'descriptionVersion' => 0,
-				'productUrl'         => 'https://aioseo.com/news-sitemap',
-				'learnMoreUrl'       => 'https://aioseo.com/news-sitemap',
+				'productUrl'         => '#',
+				'learnMoreUrl'       => '#',
 				'manageUrl'          => 'https://route#aioseo-sitemaps:news-sitemap',
 				'basename'           => 'aioseo-news-sitemap/aioseo-news-sitemap.php',
 				'installed'          => false,
@@ -906,8 +907,8 @@ class Addons {
 				'description'        => '<p>Add IndexNow support to instantly notify search engines when your content has changed. This helps the search engines to prioritize the changes on your website and helps you rank faster.</p>', // phpcs:ignore Generic.Files.LineLength.MaxExceeded
 				'descriptionVersion' => 0,
 				'downloadUrl'        => '',
-				'productUrl'         => 'https://aioseo.com/index-now/',
-				'learnMoreUrl'       => 'https://aioseo.com/index-now/',
+				'productUrl'         => '#',
+				'learnMoreUrl'       => '#',
 				'manageUrl'          => 'https://route#aioseo-settings:webmaster-tools',
 				'basename'           => 'aioseo-index-now/aioseo-index-now.php',
 				'installed'          => false,
@@ -939,8 +940,8 @@ class Addons {
 				'description'        => '<p>Manage your post and term SEO meta via the WordPress REST API. This addon also works seamlessly with headless WordPress installs.</p>', // phpcs:ignore Generic.Files.LineLength.MaxExceeded
 				'descriptionVersion' => 0,
 				'downloadUrl'        => '',
-				'productUrl'         => 'https://aioseo.com/feature/rest-api/',
-				'learnMoreUrl'       => 'https://aioseo.com/feature/rest-api/',
+				'productUrl'         => '#',
+				'learnMoreUrl'       => '#',
 				'manageUrl'          => null,
 				'basename'           => 'aioseo-rest-api/aioseo-rest-api.php',
 				'installed'          => false,
@@ -974,8 +975,8 @@ class Addons {
 				'requiresUpgrade'    => true,
 				'description'        => '<p>Globally control the Title attribute and Alt text for images in your content. These attributes are essential for both accessibility and SEO.</p>',
 				'descriptionVersion' => 0,
-				'productUrl'         => 'https://aioseo.com/image-seo',
-				'learnMoreUrl'       => 'https://aioseo.com/image-seo',
+				'productUrl'         => '#',
+				'learnMoreUrl'       => '#',
 				'manageUrl'          => 'https://route#aioseo-search-appearance:media',
 				'basename'           => 'aioseo-image-seo/aioseo-image-seo.php',
 				'installed'          => false,

@@ -84,7 +84,7 @@ class Review {
 				'utm_campaign' => 'feedback',
 				'utm_content'  => AIOSEO_VERSION,
 			],
-			'https://aioseo.com/plugin-feedback/'
+			'#' // Disabled - Independent plugin
 		);
 
 		$string1 = sprintf(
